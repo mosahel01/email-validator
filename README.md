@@ -43,7 +43,8 @@ A sleek and powerful client-side email validator built using **HTML**, **CSS**, 
 ### 📸 Demo
 
 🌐 **Live Preview**: [movalidator.netlify.app](https://movalidator.netlify.app)  
-*(Hosted with ❤️ on Netlify)*
+*(Hosted with ❤️ on Netlify)* [![Netlify Status](https://api.netlify.com/api/v1/badges/e6af664d-6999-4cd7-8c16-efb52a76112b/deploy-status)](https://app.netlify.com/sites/movalidator/deploys)
+ffj fjfjf
 
 ![UI Preview](./img/demo.png)  
 *A clean, responsive interface for validating emails in real-time*
@@ -104,4 +105,3 @@ Pull requests are welcome! If you have ideas, find a bug, or want to improve the
 Licensed under the **MIT License** — use it freely, just give credit. 💌
 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e6af664d-6999-4cd7-8c16-efb52a76112b/deploy-status)](https://app.netlify.com/sites/movalidator/deploys)
