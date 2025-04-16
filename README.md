@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6af664d-6999-4cd7-8c16-efb52a76112b/deploy-status)](https://app.netlify.com/sites/movalidator/deploys)
 ---
 
 # 🚀 MoValidator – Advanced Email Validator
@@ -43,8 +43,8 @@ A sleek and powerful client-side email validator built using **HTML**, **CSS**, 
 ### 📸 Demo
 
 🌐 **Live Preview**: [movalidator.netlify.app](https://movalidator.netlify.app)  
-*(Hosted with ❤️ on Netlify)* [![Netlify Status](https://api.netlify.com/api/v1/badges/e6af664d-6999-4cd7-8c16-efb52a76112b/deploy-status)](https://app.netlify.com/sites/movalidator/deploys)
-ffj fjfjf
+*(Hosted with ❤️ on Netlify)* 
+
 
 ![UI Preview](./img/demo.png)  
 *A clean, responsive interface for validating emails in real-time*
